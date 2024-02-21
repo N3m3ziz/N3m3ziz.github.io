@@ -1,0 +1,18 @@
+body {
+    background-color: #152340;
+  }
+  
+  svg {
+    max-height: 90vh;
+    max-width: 90vw;
+    margin: 0 auto;
+    display: block;
+  }
+  
+  path {
+    stroke: #fff;
+    stroke-width: 10;
+    stroke-linecap: round;
+    fill: none;
+  }
+  
