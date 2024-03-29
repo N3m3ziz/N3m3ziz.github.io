@@ -121,7 +121,7 @@ body{
     
     margin: 0;
     display: flex;
-    height: 100vh;
+    height: 180vh;
     overflow: hidden;
     align-items: center;
     justify-content: center;
@@ -136,8 +136,8 @@ body{
     margin: 0;
     display: flex;
     /* Works well with 100% width  */
-    width: 32.05em;
-    font-size: 1.5em;
+    width: 100em;
+    font-size: 1em;
     padding: 0 2.85em;
     position: relative;
     align-items: center;
@@ -224,7 +224,7 @@ body{
 
     left: 0;
     bottom: 99%;
-    width: 10.9em;
+    width: 20.9em;
     height: 2.4em;
     position: absolute;
     clip-path: url(#menu);
